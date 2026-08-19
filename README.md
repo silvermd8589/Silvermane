@@ -2,6 +2,7 @@
 
 I am currently enrolled is CSC-134 C++
 
+Professional life 
 - I am studying engineering at Fayetteville Tech CC
 - I work as a HVACR tech
 - I hold a degree in Heating and Air
